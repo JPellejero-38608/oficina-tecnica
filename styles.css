@@ -1,0 +1,30 @@
+agrupar {
+    width: 960px;
+    margin: 15px auto;
+    text-align: left;
+    }	
+
+body 
+
+contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .texto-encima {
+    position: absolute;
+    top: 300px;
+    left: 10px;
+    font: bold 33px arial, sans-serif;
+  }
+
+
+    h1 {
+    font: bold 26px verdana, sans-serif;
+    }
+    h2 {
+        font: bold 26px verdana, sans-serif;
+    }
+    
+    
